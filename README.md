@@ -42,6 +42,10 @@ Ran Zhu
 
 [**@kstreet13**](https://github.com/kstreet13) I'm Kelly and I'm currently enjoying the game Hades II. <img src="https://kellystreet.org/author/avatar_hu635c235f99d3c608e11e1324451efcd4_1251980_270x270_fill_lanczos_center_2.png" alt="Kelly Street" width="40px"> 
 
+## Friends
+
+[**@gvegayon**](https://ggvy.cl) I am George, I used to work at USC (where I got my degree) and am one of the first contributors to this repo! I am replicating this at the [University of Utah](https://github.com/UofUEpiBio/PHS7045-whoami)... just passing to say hi, friends 😃! <img src="https://avatars.githubusercontent.com/u/893619?v=4" width="40px">
+
 # PM566 Fall 2025 students
 
 [**@umaa908**](https://github.com/umaa908) I'm a first year Public Health Data Science MS student. My friends know me for my homemade chocolate lava cakes! 
