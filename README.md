@@ -31,7 +31,6 @@ Tasmiah Khan
 Nathan Weitershausen
 
 [**@makenacw**](https://github.com/makenacw) Im Makena, and I am a second year Masters student in the BioKinesiology department
-# git add [Makena_Profile.HEIC]
 
 Caitlin Worline
 
