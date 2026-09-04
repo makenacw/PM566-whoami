@@ -30,7 +30,7 @@ Tasmiah Khan
 
 Nathan Weitershausen
 
-[**@makenacw](https://github.com/makenacw) Hi Im Makena and Im currently a second year Masters student in the BioKinesiology Department! <img src="images/Makena_Profile.HEIC" width="40px">
+[**@makenacw**](https://github.com/makenacw) Hi Im Makena and Im currently a second year Masters student in the BioKinesiology Department! <img src="images/Makena_Picture1.jpg" width="40px">
 
 Caitlin Worline
 
