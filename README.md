@@ -22,7 +22,7 @@ repository (the USCbiostats version).
 
 # PM566 Fall 2026 students
 
-Arnav Bhatia
+Arnav Bhatia [**@arnavbha-sys**](https://github.com/arnavbha-sys/) I'm Arnav, and I'm a second-year MS student in Applied Biostatistics and Epidemiology. I hail from the Bay Area, and I did tae-kwon-do for over 10 years!
 
 Danielle Goedhart
 
